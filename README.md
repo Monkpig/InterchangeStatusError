@@ -7,7 +7,7 @@ Update test version description in comboBoxVersion_SelectedIndexChanged and GetP
 
 Test by running multiple executables concurently.
 
-This tool was successfully used to reproduced the error 'Cannot insert duplicate key' error generated for duplicate inbound acknowledgment (RECEP) interchanges for Bug 242028.
+This tool was successfully used to reproduced the error 'Cannot insert duplicate key' error generated for duplicate inbound acknowledgment (RECEP) interchanges for [Bug 242028](https://emisgroup.visualstudio.com/EMISWeb%20CSAT%20Release%20Train/_workitems/edit/242028).
 
 csv input files required.
 
@@ -16,6 +16,4 @@ InterchangeGUID,InterchangeId,Status,StatusDescription,StatusDate,InterchangeSta
 
 InterchangeStatusHistoryId;InterchangeId;Status;StatusDescription;StatusDate;IsLatest
 
-InterchangeId,Number,MessageType,OrganisationId,Direction,SenderId,RecipientId,Data,InterchangeDate,TradingPartnerOrganisationId,
-ExternalMessagingStoreId,Type,MessageTypeVersion,GUID
 
