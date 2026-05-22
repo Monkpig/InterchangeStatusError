@@ -12,8 +12,9 @@ This tool was successfully used to reproduced the error 'Cannot insert duplicate
 csv input files required.
 
 Formats - 
+
 InterchangeGUID,InterchangeId,Status,StatusDescription,StatusDate,InterchangeStatusHistoryId
 
+or
+
 InterchangeStatusHistoryId;InterchangeId;Status;StatusDescription;StatusDate;IsLatest
-
-
