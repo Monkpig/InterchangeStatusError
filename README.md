@@ -1,7 +1,7 @@
 # InterchangeStatusError
 
 Add test versions of the Comms.InterchangStatusHistoryInsert stored procedure locally with the suffix V(n) 
-eg Comms.InterchangStatusHistoryInsertV1, omms.InterchangStatusHistoryInsertV2 etc
+eg Comms.InterchangStatusHistoryInsertV1, Comms.InterchangStatusHistoryInsertV2 etc
 
 Update test version description in comboBoxVersion_SelectedIndexChanged and GetPrefix methods.
 
